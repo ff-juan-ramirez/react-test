@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      Hello World!  ss
+      Hello World!  
     </>
   )
 }
